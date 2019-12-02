@@ -3,7 +3,7 @@ from tkinter import messagebox
 from tkinter import StringVar
 import pymssql
 import datetime
-import tkinter.font
+import tkinter.font ///////////////////
 def drawGUI():
     global user
     global pas
